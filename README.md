@@ -61,3 +61,6 @@ Desain sistem dibagi menjadi 5 file VHDL utama untuk memenuhi prinsip *Structura
 # Finite State Machine
 ## lanczos3_scaler
 ![lanczos3_scaler_fsm](https://github.com/NishDevan/ImageUpscalerProject/blob/main/Assets/lanczos3_scaler.jpg)
+
+## lanczos_resample_engine
+![lanczos3_resample_engine_fsm](https://github.com/NishDevan/ImageUpscalerProject/blob/main/Assets/lanczos_resample_engine.jpg)
