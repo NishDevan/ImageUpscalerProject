@@ -52,3 +52,7 @@ Desain sistem dibagi menjadi 5 file VHDL utama untuk memenuhi prinsip *Structura
         - Memodifikasi Header (*Width*, *Height*, *File Size*) untuk *output*.
         - Menangani *Vertical Flip* (BMP disimpan *bottom-to-top*).
         - Menangani ***4-byte Row Padding*** standar format BMP.
+
+---
+# Waveform
+![Waveform](https://github.com/NishDevan/ImageUpscalerProject/blob/main/Assets/Waveform.jpg)
