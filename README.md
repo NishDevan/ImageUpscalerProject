@@ -64,3 +64,6 @@ Desain sistem dibagi menjadi 5 file VHDL utama untuk memenuhi prinsip *Structura
 
 ## lanczos_resample_engine
 ![lanczos3_resample_engine_fsm](https://github.com/NishDevan/ImageUpscalerProject/blob/main/Assets/lanczos_resample_engine.jpg)
+
+## border_replicator
+![border_replicator_fsm](https://github.com/NishDevan/ImageUpscalerProject/blob/main/Assets/border_replicator.jpg)
